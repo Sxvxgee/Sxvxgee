@@ -16,9 +16,9 @@
  
 <p align="center">
   <a href="https://github.com/Sxvxgee?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/TheOnlyWayUp"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Sxvxgee"/></a>
   <a href="https://github.com/Sxvxgee?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/TheOnlyWayUp?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Sxvxgee?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 <br>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=Sxvxgee&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=AB2CDD&ring=946AFD&fire=DD2727&sideLabels=7CDD9F">
