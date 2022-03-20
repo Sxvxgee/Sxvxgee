@@ -9,7 +9,7 @@
 
 -------
 
-<h4>I don't mind working on projects if they were advanced and the main contributors were serious about it. My Discord is <a href='https://discord.com/users/934346618369609758'></a>S X V X G E#0001</a>
+<h4>I don't mind working on projects if they were advanced and the main contributors were serious about it, and the project goal was interesting for me.<br>My Discord is <a href='https://discord.com/users/934346618369609758'></a>S X V X G E#0001</a>
 </h4>
 
 --------
