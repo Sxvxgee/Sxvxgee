@@ -1,12 +1,19 @@
 <div align="center">
 <h1>S X V X G E</h1>
 <h4>I'm a Python Developer who's interested in automation and perfection. I've had experience working on quite a lot of projects, both as part of teams and solo. I like coding since it involves problem solving and alogirthm making, and both of these are my favorite.</h4>
+ 
+ 
+[![Sxvxgee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sxvxgee)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h3>What I know</h3>
 
 <br>
 <img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg'> <img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg'> <img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg'> <img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg'>
 
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sxvxgee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
 -------
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/934346618369609758?theme=dark&animated=true&borderRadius=10px&idleMessage=Dein%20Zweifel%20ist%20schw%C3%A4cher%20als%20mein%20Glaube.)](https://discord.com/users/934346618369609758)
