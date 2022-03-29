@@ -10,7 +10,14 @@
 
 <br>
 <img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg'> <img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg'> <img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg'> <img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg'>
+<br>
 
+<h3>What I'm learning</hr>
+
+
+<br>
+<img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/rust.svg'>
+<br>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sxvxgee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
