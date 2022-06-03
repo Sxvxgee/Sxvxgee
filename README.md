@@ -45,6 +45,9 @@
 - [Darkend](https://darkend.tech)
     - <details><summary>Automation Advanced Program</summary>A program that is extremely easy-to-use yet powerful and advanced, continuously updated and developed. With the main goal of easing the automation process of the Discord bot' economy commands, Dank Memer.</details>
 <br>
+- [LightNuke](https://github.com/Sxvxgee/LightNuke)
+    - <details><summary>Spam & Nuke Discord related things at ease.</details>
+<br>
 
 -------
 
