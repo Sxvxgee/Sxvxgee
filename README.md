@@ -3,9 +3,9 @@
  
 [![Sxvxgee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sxvxgee&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
+ -------
+ 
 <h2>What I know</h2>
-
-<br>
 <img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg'> <img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg'> <img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg'> <img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg'>
 <br>
 
@@ -17,10 +17,11 @@
 <br>
 
 <h3>Currently working on:</h3>
-- [Darkend](https://darkend.tech)
-    - <details><summary>Automation Advanced Program</summary>A program that is extremely easy-to-use yet powerful and advanced, continuously updated and developed. With the main goal of easing the automation process of the Discord bot' economy commands, Dank Memer.</details>
-- [LightNuke](https://github.com/Sxvxgee/LightNuke)
-    - <details><summary>Spam & Nuke Discord related things at ease.</summary>I'll figure out what to write here soon, lol.</details>
+<div align="left">
+- Darkend
+    <details><summary>Automation Advanced Program</summary>A program that is extremely easy-to-use yet powerful and advanced, continuously updated and developed. With the main goal of easing the automation process of the Discord bot' economy commands, Dank Memer.</details>
+- LightNuke
+    <details><summary>Spam & Nuke Discord related things at ease.</summary>I'll figure out what to write here soon, lol.</details>
 <br>
 
 -------
